@@ -1,0 +1,10 @@
+header{
+    background-color: darkgoldenrod;
+    display: flex;
+}
+h1{
+    margin: auto;
+    justify-content: center;
+    font-size: 400%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
