@@ -1,3 +1,6 @@
+body{
+    background-image: url(pattern.png);
+}
 header{
     background-color: darkgoldenrod;
     display: flex;
